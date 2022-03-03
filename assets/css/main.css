@@ -673,14 +673,19 @@ video {
 }
 
 .detail .detail-body ol {
-  list-style-type: auto;
+  list-style-type: none;
   padding-left: 2rem;
 }
 
 .detail .detail-body ol li {
   font-size: 1.3rem;
-  padding-left: 1rem;
   line-height: 1.7;
+}
+
+.detail .detail-body ol li span {
+  padding-right: 1rem;
+  color: #3CBF77;
+  font-size: 1rem;
 }
 
 .detail .detail-body h3 {
