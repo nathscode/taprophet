@@ -292,7 +292,7 @@ video {
 }
 
 .navigation .navbar-nav li a {
-  color: #5c37b9;
+  color: #3CBF77;
   font-weight: 600;
 }
 
@@ -302,7 +302,7 @@ video {
 }
 
 .navigation .navbar-nav li a:hover {
-  color: #5c37b9;
+  color: #3CBF77;
 }
 
 .navigation .navbar-brand img {
@@ -311,7 +311,7 @@ video {
 }
 
 .navigation .navbar-toggler {
-  background: #5c37b9;
+  background: #3CBF77;
   border-radius: 0px;
   padding: 10px 15px;
 }
@@ -351,7 +351,7 @@ video {
   max-width: 1000px;
   line-height: 1.2;
   margin-bottom: 2rem;
-  color: #5c37b9;
+  color: #3CBF77;
 }
 
 .banner__inner p {
@@ -393,7 +393,7 @@ video {
 .course__card__lead {
   font-size: 1rem;
   line-height: 1.5;
-  color: #5c37b9;
+  color: #3CBF77;
   font-weight: 600;
 }
 
@@ -431,12 +431,12 @@ video {
 
 .course__card__btn.btn-primary {
   color: #ffffff;
-  border: 2px solid #5c37b9;
-  background-color: #5c37b9;
+  border: 2px solid #3CBF77;
+  background-color: #3CBF77;
 }
 
 .course__card__btn.btn-primary:hover {
-  background-color: #482b92;
+  background-color: #30985f;
 }
 
 .course__card__btn.btn-outline {
@@ -445,13 +445,13 @@ video {
 }
 
 .course__card__btn.btn-outline:hover {
-  background-color: #7856cd;
+  background-color: #61cd92;
 }
 
 .course__title h2 {
   font-size: 2rem;
   font-weight: 700;
-  color: #5c37b9;
+  color: #3CBF77;
   margin-bottom: 0.35em;
 }
 
@@ -462,13 +462,13 @@ video {
 }
 
 .btn-main-2 {
-  background: #5c37b9;
+  background: #3CBF77;
   color: #fff;
-  border-color: #5c37b9;
+  border-color: #3CBF77;
 }
 
 .btn-main-2:hover {
-  background-color: #482b92;
+  background-color: #30985f;
   color: #fff;
 }
 
@@ -535,7 +535,7 @@ video {
 }
 
 .testimonial-slider .owl-dots .owl-dot.active span {
-  background: #5c37b9;
+  background: #3CBF77;
 }
 
 .go-top {
@@ -544,7 +544,7 @@ video {
   right: 30px;
   bottom: 50px;
   z-index: 999;
-  background: #5c37b9;
+  background: #3CBF77;
   color: #fff !important;
   border-radius: 100%;
   opacity: 0;
@@ -678,13 +678,13 @@ video {
 }
 
 .detail .detail-body ol li {
-  font-size: 1.7rem;
+  font-size: 1.3rem;
   padding-left: 1rem;
   line-height: 1.7;
 }
 
 .detail .detail-body h3 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.5;
 }
 
@@ -693,8 +693,8 @@ video {
 }
 
 .detail .detail-body h2 {
-  font-size: 1.8rem;
-  line-height: 1.8;
+  font-size: 1.5rem;
+  line-height: 1.5;
   margin-bottom: 1rem;
 }
 
@@ -704,7 +704,7 @@ video {
 }
 
 .detail .detail-body p {
-  font-size: 1.7rem;
+  font-size: 1.2rem;
   line-height: 1.75;
   margin-bottom: 1rem;
   color: rgba(10, 9, 9, 0.722);
@@ -758,13 +758,13 @@ body {
 
 html ::-moz-selection,
 body ::-moz-selection {
-  background-color: #5c37b9;
+  background-color: #3CBF77;
   color: #fff;
 }
 
 html ::selection,
 body ::selection {
-  background-color: #5c37b9;
+  background-color: #3CBF77;
   color: #fff;
 }
 
@@ -897,7 +897,7 @@ a.site-btn-primary,
   font-weight: 500;
   color: #fff;
   line-height: 1.5em;
-  background-color: #5c37b9;
+  background-color: #3CBF77;
   opacity: 1;
 }
 
@@ -956,7 +956,7 @@ a.site-btn-primary,
 }
 
 .primary-color {
-  color: #5c37b9;
+  color: #3CBF77;
 }
 
 strong {
@@ -968,7 +968,7 @@ strong {
 }
 
 .text-green {
-  color: #00CC99;
+  color: #3CBF77;
 }
 
 .text-blue {
@@ -997,7 +997,7 @@ strong {
 }
 
 #scrollUp {
-  background-color: #5c37b9;
+  background-color: #3cbf77;
   border-radius: 0;
   color: #fff;
   font-size: 14px;
@@ -1017,8 +1017,8 @@ strong {
 
 #scrollUp:hover,
 #scrollUp:focus {
-  background-color: rgba(92, 55, 185, 0.4);
-  color: #5c37b9;
+  background-color: rgba(60, 191, 119, 0.4);
+  color: #3CBF77;
 }
 
 .content-wrapper {
